@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "SintaxeBasica.Operadores",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "Testes",
+            "request": "launch",
+            "mainClass": "Testes",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "MeuCodigo",
+            "request": "launch",
+            "mainClass": "edu.loanhardem.estudos.MeuCodigo",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "MeuCodigo",
             "request": "launch",
             "mainClass": "MeuCodigo",
