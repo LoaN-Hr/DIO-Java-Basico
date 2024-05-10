@@ -8,7 +8,9 @@ public class TiposVariaveis {
 		long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo
 		float pi = 3.14F;
 		double salario = 1275.33;
+		boolean simOuNao = false; // boolean retorna valores false ou true
+		String nome = "Juanir Flaviasaurro"; // String é para textos, nomes ou palavras
 
-        System.out.println(idade + ano + cep + cpf + pi + salario);
+        System.out.println(idade + ano + cep + cpf + pi + salario + nome + simOuNao);
     }
 }
