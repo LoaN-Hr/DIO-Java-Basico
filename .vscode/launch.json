@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArrays",
+            "request": "launch",
+            "mainClass": "ExemploForArrays",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "ResultadoEscolar",

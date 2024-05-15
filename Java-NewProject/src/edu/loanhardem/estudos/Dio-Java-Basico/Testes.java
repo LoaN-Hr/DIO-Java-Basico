@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class Testes {
     public static void main(String[] args) {
         //int numero = 3 + 1 - 7 * 8 ;
@@ -30,6 +32,10 @@ public class Testes {
         String nomeDois =  new String("loan");
 
         System.out.println(nomeUm == nomeDois);
+
+        int aleatorio = new Random().nextInt(3000);
+
+        System.out.println(aleatorio);
 
 
     }

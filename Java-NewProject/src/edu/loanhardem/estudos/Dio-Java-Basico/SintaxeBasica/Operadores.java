@@ -2,9 +2,15 @@ package SintaxeBasica;
 
 public class Operadores {
     public static void main(String[] args) {
-       int numero = 3;
+        //Operador de atribuição =
+        int numero = 3;
 
-       System.out.println(numero);
+        System.out.println(numero);
+
+        int meuNumero = 4 + numero;
+        System.out.println(meuNumero);
+
+
     }
 
     public class aritimeticos {
