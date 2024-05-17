@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CepFormatado",
+            "request": "launch",
+            "mainClass": "CepFormatado",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ExemploTryCatch",
+            "request": "launch",
+            "mainClass": "ExemploTryCatch",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",
