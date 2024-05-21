@@ -23,5 +23,8 @@ public class Usuario {
 
         nossaTv.teste(5, 7);
         System.out.println(nossaTv.volume);
+
+        Exemplo exemplo = new Exemplo();
+        System.out.println(exemplo.nome);
     }
 }

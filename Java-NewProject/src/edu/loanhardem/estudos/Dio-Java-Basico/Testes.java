@@ -37,6 +37,7 @@ public class Testes {
 
         System.out.println(aleatorio);
 
-
+        Exemplo exemplo = new Exemplo();
+        System.out.println(exemplo.nome);
     }
 }
