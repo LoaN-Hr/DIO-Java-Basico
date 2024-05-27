@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "Interface.estabelecimento.Fabrica",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "Polimorfismo.ComputadorPedrinho",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "EncapsulamentoHerança.ComputadorPedrinho",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "Abstração.ComputadorPedrinho",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "Encapsulamento.ComputadorPedrinho",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "Altodromo",
+            "request": "launch",
+            "mainClass": "BasicoPOO.Altodromo",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "SistemaIbge",
             "request": "launch",
             "mainClass": "edu.loanhardem.estudos.ExemploPacotes.org.dio.acesso.model.ExemploDeEnums.SistemaIbge",

@@ -1,6 +1,6 @@
-package Encapsulamento;
+package BasicoPOO;
 
-public class Carro {
+public class Carro extends Veiculo {
     public void ligarCarro(){
         confereCambio();
         confereCombustivel();
