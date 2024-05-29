@@ -20,5 +20,10 @@ public class EquipamentoMultifuncional implements Copiadora, Digitalizadora, Imp
     public void imprimir() {
         System.out.println("IMPRIMINDO VIA EQUIPAMENTO MULTIFUNCIONAL");
     }
+
+    @Override
+    public void teste() {
+        System.out.println("EU SOU UMA COPIADORA, DIGITALIZADORA E IMPRESSORA");
+    }
     
 }
