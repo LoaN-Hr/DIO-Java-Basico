@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "list.OperacoesBasicas.CarrinhoDeCompras.CarrinhoDeCompras",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefa",
+            "request": "launch",
+            "mainClass": "list.OperacoesBasicas.ListaTarefa",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "Fabrica",
             "request": "launch",
             "mainClass": "Interface.estabelecimento.Fabrica",
