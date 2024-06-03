@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoPessoa",
+            "request": "launch",
+            "mainClass": "list.Ordenacao.OrdenacaoPessoa",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "CatalagoLivros",
+            "request": "launch",
+            "mainClass": "list.PesquisaList.CatalagoLivros",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "CarrinhoDeCompras",
             "request": "launch",
             "mainClass": "list.OperacoesBasicas.CarrinhoDeCompras.CarrinhoDeCompras",
