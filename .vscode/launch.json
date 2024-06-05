@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CadastroProduto",
+            "request": "launch",
+            "mainClass": "set.Ordenacao.CadastroProduto",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContato",
+            "request": "launch",
+            "mainClass": "set.PesquisaSet.AgendaContato",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidado",
+            "request": "launch",
+            "mainClass": "set.OperacoesBasicas.ConjuntoConvidado",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoPessoa",
             "request": "launch",
             "mainClass": "list.Ordenacao.OrdenacaoPessoa",
