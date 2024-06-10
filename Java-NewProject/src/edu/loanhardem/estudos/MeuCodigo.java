@@ -10,5 +10,6 @@ public class MeuCodigo {
         System.out.println("Nome: " + meuNome);
         System.out.println("Data de Nascimento: " + anoNascimento);
         System.out.println("Estado civil: " + estouNamorando);
+
     }
 }
