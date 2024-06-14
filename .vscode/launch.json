@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrElse",
+            "request": "launch",
+            "mainClass": "Optional.OrElse",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "OrdemNumerica",
+            "request": "launch",
+            "mainClass": "ExerciciosStream.OrdemNumerica",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "BinaryOperatorExample",
+            "request": "launch",
+            "mainClass": "FunctionalInterfaces.BinaryOperatorExample",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExample",
+            "request": "launch",
+            "mainClass": "FunctionalInterfaces.FunctionExample",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "SupplierExample",
+            "request": "launch",
+            "mainClass": "FunctionalInterfaces.SupplierExample",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerExample",
+            "request": "launch",
+            "mainClass": "FunctionalInterfaces.ConsumerExample",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "EstoqueProdutos",
             "request": "launch",
             "mainClass": "map.PesquisaMap.EstoqueProdutos",
