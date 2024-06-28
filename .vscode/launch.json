@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "testemaven.src.main.java.com.teste.br.App",
+            "projectName": "DIO-Java-Basico_ba5418ac"
+        },
+        {
+            "type": "java",
             "name": "OrElse",
             "request": "launch",
             "mainClass": "Optional.OrElse",
